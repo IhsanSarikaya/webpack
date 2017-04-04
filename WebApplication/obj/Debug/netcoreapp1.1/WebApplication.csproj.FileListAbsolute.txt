@@ -1,0 +1,10 @@
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.deps.json
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.json
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.dev.json
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.dll
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.pdb
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.AssemblyInfo.cs
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.dll
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.pdb
+C:\Users\ihsan\Desktop\Dev\Tests\AspNetCore\WebSolution\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.csprojResolveAssemblyReference.cache

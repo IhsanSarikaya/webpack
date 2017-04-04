@@ -1,0 +1,25 @@
+﻿
+// cd to project folder
+
+// init npm package with default value
+npm init -y
+
+// add webpack.config.js
+
+// add webpack as script builder
+  "scripts": {
+    "build": "webpack"
+  }
+
+// if Typescript
+npm i --save typescript
+npm i --save typings
+
+// if you install type script loader
+npm i awesome-typescript-loader
+
+// run 
+npm run build
+
+// uninstall
+npm uninstall -g package_name
